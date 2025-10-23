@@ -10,7 +10,7 @@ A simple **Java Swing** application that allows students to input marks for mult
 - Calculates:
   - **Total Marks**
   - **Average Percentage**
-  - **Final Grade**<img width="546" height="585" alt="Screenshot 2025-10-23 124033" src="https://github.com/user-attachments/assets/42907702-42d7-42d6-a8e1-f307f3c6bc3a" />
+  - **Final Grade**
 
 - Clean and user-friendly **Graphical User Interface (GUI)** built using **Swing**.
 - “Clear” button to reset all fields.
@@ -35,5 +35,5 @@ A simple **Java Swing** application that allows students to input marks for mult
 | Below 50%        | F      |
 
 ---
-
+<img width="546" height="585" alt="Screenshot 2025-10-23 124033" src="https://github.com/user-attachments/assets/42907702-42d7-42d6-a8e1-f307f3c6bc3a" />
 
