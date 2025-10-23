@@ -21,7 +21,7 @@ A simple **Java Swing** application that allows students to input marks for mult
 - **Java (JDK 8 or higher)**
 - **Swing GUI Library**
 
----                                                                          <img width="546" height="585" alt="Screenshot 2025-10-23 124033" src="https://github.com/user-attachments/assets/1a17ecaf-8c2a-49f5-926d-e52f044ae849" />
+---                                                                         
 
 ## 🧠 Grade Criteria
 | Percentage Range | Grade |
